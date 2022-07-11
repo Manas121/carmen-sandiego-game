@@ -1,0 +1,15 @@
+     *CPU's: 1
+     *GPU's: 0
+     *Power supply unit's: 0
+     *Computer case's: 0
+     *Internet card's: 0
+     *Keyboard and mouse's: 0
+     *Premade Computer: 0
+     *USB Stick's: 0
+     *VPN's: 1
+     *Internet provider level:  5
+     *Number of dogecoins:  207
+     *Player's frustation:  16
+     *Carmen's progress level:  0
+     *Total Hackers defeated:  1
+     *Player's Computer Maintenence level:   50
